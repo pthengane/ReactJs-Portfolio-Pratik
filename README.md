@@ -1,4 +1,4 @@
-# Personal Portfolio - Pratik Thengane
+# 🌐 Personal Portfolio - Pratik Thengane
 
 This repository contains the source code for my **personal portfolio website**, showcasing my skills, projects, and services as a Full-Stack Developer.
 
@@ -45,7 +45,7 @@ npm start
 ```
 
 
-⭐ Support
+## ⭐ Support
 If you like this project, give it a star ⭐ on GitHub — it helps others find it!
 
 
